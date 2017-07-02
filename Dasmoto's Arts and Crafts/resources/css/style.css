@@ -1,0 +1,40 @@
+.title-image {
+  background-image: url(../images/pattern.jpeg);
+}
+
+.helvetica {
+  font-family:Helvetica;
+}
+
+h1,
+h2 {
+  font-weight:bold;
+  /*using <strong> for blue pricings*/
+}
+
+h1 {
+  font-size:100px;
+  color:khaki;
+  text-align:center;
+}
+
+h2 {
+  font-size:32px;
+  color:white;
+}
+
+.background-brushes {
+  background-color:mediumspringgreen;
+}
+
+.background-frames {
+  background-color:lightcoral;
+}
+
+.background-paint {
+  background-color:skyblue;
+}
+
+.blue {
+  color:blue;
+}
